@@ -35,15 +35,13 @@ Average Salary
 Highlighted Top Skill
 
 **System Architecture**
-Frontend (React)
-⬇
-Backend API (Python)
-⬇
-AI Skill Engine
-⬇
-Survey Dataset (CSV via Git LFS)
+1. Frontend (React)
+2. Backend API (Python)
+2. AI Skill Engine
+4. Survey Dataset (CSV via Git LFS)
 
 **Tech Stack**
+
 **Frontend**
 React.js
 HTML/CSS
